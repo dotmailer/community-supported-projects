@@ -17,3 +17,8 @@ Note that these projects have not been security tested by dotmailer. If you deve
 
 * [Contact Form 7 dotmailer integration](https://github.com/n2DigitalMedia/contact-form-7-dotmailer)
 * [Wordpress plugin for dotmailer forms using PHP](https://github.com/franhaselden/dotmailer-rest-plugin)
+* [RSForm!Pro Joomla! - dotmailer integration](https://www.rsjoomla.com/blog/view/312-rsformpro-dotmailer-integration.html)
+
+
+
+
