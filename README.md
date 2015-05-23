@@ -9,6 +9,7 @@ Note that these projects have not been security tested by dotmailer. If you deve
 
 * [Ruby wrapper for REST API developed by econsultancy](https://github.com/econsultancy/dotmailer)
 * [PHP client library for REST API developed by romanpitak](https://github.com/romanpitak/dotMailer-API-v2-PHP-client)
+* [PHP wrapper for REST API developed by Lee Willis](https://github.com/leewillis77/dotmailer-api)
 * [Laravel wrapper for REST API developed by industriousmouse](https://github.com/industrious-mouse/laravel-dotmailer)
 * [C# .NET wrapper for REST API developed by garrym](https://github.com/garrym/dotMailer-Api-Client)
 * [Node.js API wrapper for REST API developed by confuser](https://github.com/confuser/node-dotmailer)
