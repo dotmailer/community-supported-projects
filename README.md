@@ -14,16 +14,10 @@ Note that these projects have not been security tested by dotmailer. If you deve
 * [C# .NET wrapper for REST API developed by garrym](https://github.com/garrym/dotMailer-Api-Client)
 * [Node.js API wrapper for REST API developed by confuser](https://github.com/confuser/node-dotmailer)
 
-## Examples Developed by Community 
+## Community Supported Integrations
 
 * [Contact Form 7 dotmailer integration](https://github.com/n2DigitalMedia/contact-form-7-dotmailer)
 * [Wordpress plugin for dotmailer forms using PHP](https://github.com/franhaselden/dotmailer-rest-plugin)
 * [RSForm!Pro Joomla! - dotmailer integration](https://www.rsjoomla.com/blog/view/312-rsformpro-dotmailer-integration.html)
 * [dotmailer woocommerce integration](https://plugins.leewillis.co.uk/downloads/dotmailer-woocommerce/)
-
-
-
-
-
-
-
+* [Saleslogix / Infor CRM](https://github.com/dotmailer/saleslogix-connector)
