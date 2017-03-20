@@ -13,6 +13,7 @@ Note that these projects have not been security tested by dotmailer. If you deve
 * [Laravel wrapper for REST API developed by industriousmouse](https://github.com/industrious-mouse/laravel-dotmailer)
 * [C# .NET wrapper for REST API developed by garrym](https://github.com/garrym/dotMailer-Api-Client)
 * [Node.js API wrapper for REST API developed by confuser](https://github.com/confuser/node-dotmailer)
+* [Python API wrapper developed by Mr-F](https://github.com/Mr-F/dotmailer)
 
 ## Community Supported Integrations
 
